@@ -1,6 +1,6 @@
 # Olá!! Meu nome é Breno Matos 😊👋🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-matos-580667275/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-matos-580667275/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-matos-580667275/) [![Portifólio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-matos-580667275/)
 
 ![BrenoKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenokm&show_icons=true&theme=gruvbox)
 
@@ -25,7 +25,7 @@
 
 
 # Sobre mim
-Olá! Meu nome é Breno Matos e sou um programador técnico recém-formado(2024) em Desenvolvimento de Sistemas pelo SENAI-vitória. planejo cursar Engenharia de Software e estou entusiasmado para iniciar minha carreira na área de tecnologia.
+Olá! Meu nome é Breno Matos e sou um programador recém-formado(2024) em Desenvolvimento de Sistemas pelo SENAI-vitória. planejo cursar Engenharia de Software e estou entusiasmado para iniciar minha carreira na área de tecnologia.
 
 Estou sempre aberto a novas oportunidades e pronto para embarcar em projetos desafiadores que possam me ajudar a crescer como profissional. Se você está procurando um programador dedicado e entusiasmado para sua equipe, adoraria conversar!
 
