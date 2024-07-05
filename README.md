@@ -25,8 +25,6 @@
 
 
 # Sobre mim
-Olá! Meu nome é Breno Matos e sou um programador recém-formado(2024) em Desenvolvimento de Sistemas pelo SENAI-vitória. planejo cursar Engenharia de Software e estou entusiasmado para iniciar minha carreira na área de tecnologia.
-
 Estou sempre aberto a novas oportunidades e pronto para embarcar em projetos desafiadores que possam me ajudar a crescer como profissional. Se você está procurando um programador dedicado e entusiasmado para sua equipe, adoraria conversar!
 
 
