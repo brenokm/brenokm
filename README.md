@@ -1,6 +1,5 @@
 # Olá!! Meu nome é Breno Matos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-matos-580667275/) [![Portifólio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-matos-580667275/)
 
 ![BrenoKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenokm&show_icons=true&theme=gruvbox)
 
